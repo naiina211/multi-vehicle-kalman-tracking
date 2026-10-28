@@ -1,0 +1,6 @@
+*.pt
+.yolov8n*
+__pycache__/
+.DS_Store
+traffic.mp4
+result.mp4
